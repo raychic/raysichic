@@ -1,0 +1,16 @@
+{
+  "name": "raysichic",
+  "description": "rayy generator facebook",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
